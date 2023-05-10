@@ -1,0 +1,1 @@
+Image\\Action_flame.png 1000 200 200 30 50
